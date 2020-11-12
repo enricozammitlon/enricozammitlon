@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Enrico Zammit Lonardelli but people call me Rico 😄 I'm Italian and Maltese and I graduated in Theoretical Physics from the University of Manchester in July, 2020. 
 
-- 👔 I’m currently working for HSBC in London an I am on the Graduate Technology Programme
+- 👔 I’m currently working for HSBC in London, currently on their Graduate Technology Programme
 - 🌱 I’m currently learning SRE methodologies, Kubernetes, AppDynamics and Splunk
 - 🤝 I’m looking to collaborate on any project really! Just reach out, I'm tech agnostic and love cool projects - especially 🆕 tech
 - 📖 I run a personal, technology centred blog [here](https://enricozammitlonardelli.com)
